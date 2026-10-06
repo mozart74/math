@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rpgma\\source\\repos\\Math\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE914C3-9360-69A1-3A90-840544A78614}|Math.csproj|c:\\users\\rpgma\\source\\repos\\math\\frmmath.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE914C3-9360-69A1-3A90-840544A78614}|Math.csproj|solutionrelative:frmmath.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE914C3-9360-69A1-3A90-840544A78614}|Math.csproj|C:\\Users\\rpgma\\source\\repos\\Math\\frmmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EE914C3-9360-69A1-3A90-840544A78614}|Math.csproj|solutionrelative:frmmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE914C3-9360-69A1-3A90-840544A78614}|Math.csproj|c:\\users\\rpgma\\source\\repos\\math\\frmmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE914C3-9360-69A1-3A90-840544A78614}|Math.csproj|solutionrelative:frmmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE914C3-9360-69A1-3A90-840544A78614}|Math.csproj|c:\\users\\rpgma\\source\\repos\\math\\frmmath.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{2EE914C3-9360-69A1-3A90-840544A78614}|Math.csproj|solutionrelative:frmmath.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE914C3-9360-69A1-3A90-840544A78614}|Math.csproj|c:\\users\\rpgma\\source\\repos\\math\\math.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2EE914C3-9360-69A1-3A90-840544A78614}|Math.csproj|solutionrelative:math.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Math.csproj",
+              "DocumentMoniker": "C:\\Users\\rpgma\\source\\repos\\Math\\Math.csproj",
+              "RelativeDocumentMoniker": "Math.csproj",
+              "ToolTip": "C:\\Users\\rpgma\\source\\repos\\Math\\Math.csproj",
+              "RelativeToolTip": "Math.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-26T20:29:48.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMath.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rpgma\\source\\repos\\Math\\frmMath.Designer.cs",
+              "RelativeDocumentMoniker": "frmMath.Designer.cs",
+              "ToolTip": "C:\\Users\\rpgma\\source\\repos\\Math\\frmMath.Designer.cs",
+              "RelativeToolTip": "frmMath.Designer.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAnwGsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T20:28:23.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMath.resx",
+              "DocumentMoniker": "C:\\Users\\rpgma\\source\\repos\\Math\\frmMath.resx",
+              "RelativeDocumentMoniker": "frmMath.resx",
+              "ToolTip": "C:\\Users\\rpgma\\source\\repos\\Math\\frmMath.resx",
+              "RelativeToolTip": "frmMath.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-09-26T16:07:13.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMath.cs",
+              "DocumentMoniker": "C:\\Users\\rpgma\\source\\repos\\Math\\frmMath.cs",
+              "RelativeDocumentMoniker": "frmMath.cs",
+              "ToolTip": "C:\\Users\\rpgma\\source\\repos\\Math\\frmMath.cs",
+              "RelativeToolTip": "frmMath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T16:05:38.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMath.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rpgma\\source\\repos\\Math\\frmMath.cs",
+              "RelativeDocumentMoniker": "frmMath.cs",
+              "ToolTip": "C:\\Users\\rpgma\\source\\repos\\Math\\frmMath.cs [Design]",
+              "RelativeToolTip": "frmMath.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T15:09:52.153Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
