@@ -1,0 +1,7 @@
+﻿namespace Math
+{
+    public partial class frmMath : Form
+    {
+    
+    }
+}
