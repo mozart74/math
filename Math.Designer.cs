@@ -43,8 +43,7 @@
             lblRealRemainder = new Label();
             txtRealRemainder = new TextBox();
             btnEnter = new Button();
-            textBox1 = new TextBox();
-            l = new Label();
+      
             SuspendLayout();
             // 
             // lblN1
@@ -81,12 +80,12 @@
             lblEqualSign.TabIndex = 4;
             lblEqualSign.Text = "=";
             // 
-            // txtAnswer
+            // txtUserAnswer
             // 
-            txtAnswer.Location = new Point(220, 6);
-            txtAnswer.Name = "txtAnswer";
-            txtAnswer.Size = new Size(47, 23);
-            txtAnswer.TabIndex = 5;
+            this.txtAnswer.Location = new Point(220, 6);
+            this.txtAnswer.Name = "txtAnswer";
+            this.txtAnswer.Size = new Size(47, 23);
+            this.txtAnswer.TabIndex = 5;
             // 
             // lblAnswer
             // 
@@ -95,7 +94,7 @@
             lblAnswer.Name = "lblAnswer";
             lblAnswer.Size = new Size(46, 15);
             lblAnswer.TabIndex = 6;
-            lblAnswer.Text = "&Answer";
+            lblAnswer.Text = "User &Answer";
             // 
             // lblRemainder
             // 
@@ -104,7 +103,7 @@
             lblRemainder.Name = "lblRemainder";
             lblRemainder.Size = new Size(64, 15);
             lblRemainder.TabIndex = 7;
-            lblRemainder.Text = "Remainder";
+            lblRemainder.Text = "User &Remainder";
             lblRemainder.Click += lblRemainder_Click;
             // 
             // txtRemainder
@@ -126,10 +125,11 @@
             // 
             // txtRealAnswer
             // 
-            txtRealAnswer.Location = new Point(217, 35);
+            txtRealAnswer.Location = new Point(245, 85);
             txtRealAnswer.Name = "txtRealAnswer";
             txtRealAnswer.Size = new Size(50, 23);
             txtRealAnswer.TabIndex = 11;
+            txtRealAnswer.TextChanged += txtRealAnswer_TextChanged;
             // 
             // lblRealRemainder
             // 
@@ -154,33 +154,14 @@
             btnEnter.Size = new Size(75, 23);
             btnEnter.TabIndex = 9;
             btnEnter.Text = "Enter";
-            btnEnter.UseVisualStyleBackColor = true;
-            btnEnter.Click += btnEnter_Click;
-            // 
-            // textBox1
-            // 
-            textBox1.Location = new Point(374, 6);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(57, 23);
-            textBox1.TabIndex = 14;
-            // 
-            // l
-            // 
-            l.AutoSize = true;
-            l.Location = new Point(144, 38);
-            l.Name = "l";
-            l.Size = new Size(71, 15);
-            l.TabIndex = 15;
-            l.Text = "Real Answer";
-            l.Click += label1_Click;
+           
             // 
             // Math
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(593, 137);
-            Controls.Add(l);
-            Controls.Add(textBox1);
+           
             Controls.Add(txtRealRemainder);
             Controls.Add(lblRealRemainder);
             Controls.Add(txtRealAnswer);
@@ -229,7 +210,5 @@
         private TextBox txtRealAnswer;
         private Label lblRealRemainder;
         private TextBox txtRealRemainder;
-        private TextBox textBox1;
-        private Label l;
     }
 }

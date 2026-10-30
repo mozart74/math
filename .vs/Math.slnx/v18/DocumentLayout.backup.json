@@ -1,42 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rpgma\\source\\repos\\Math\\",
+  "WorkspaceRootPath": "C:\\Users\\rpgma\\source\\repos\\MathQuiz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2EE914C3-9360-69A1-3A90-840544A78614}|Math.csproj|c:\\users\\rpgma\\source\\repos\\math\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2EE914C3-9360-69A1-3A90-840544A78614}|Math.csproj|solutionrelative:math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EE914C3-9360-69A1-3A90-840544A78614}|Math.csproj|c:\\users\\rpgma\\source\\repos\\math\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EE914C3-9360-69A1-3A90-840544A78614}|Math.csproj|solutionrelative:math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EE914C3-9360-69A1-3A90-840544A78614}|Math.csproj|c:\\users\\rpgma\\source\\repos\\math\\math.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EE914C3-9360-69A1-3A90-840544A78614}|Math.csproj|c:\\users\\rpgma\\source\\repos\\mathquiz\\math.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EE914C3-9360-69A1-3A90-840544A78614}|Math.csproj|solutionrelative:math.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EE914C3-9360-69A1-3A90-840544A78614}|Math.csproj|c:\\users\\rpgma\\source\\repos\\math\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EE914C3-9360-69A1-3A90-840544A78614}|Math.csproj|C:\\Users\\rpgma\\source\\repos\\MathQuiz\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EE914C3-9360-69A1-3A90-840544A78614}|Math.csproj|solutionrelative:math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE914C3-9360-69A1-3A90-840544A78614}|Math.csproj|c:\\users\\rpgma\\source\\repos\\mathquiz\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE914C3-9360-69A1-3A90-840544A78614}|Math.csproj|solutionrelative:math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE914C3-9360-69A1-3A90-840544A78614}|Math.csproj|c:\\users\\rpgma\\source\\repos\\mathquiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EE914C3-9360-69A1-3A90-840544A78614}|Math.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rpgma\\source\\repos\\Math\\frmMath.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frmMath.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EE914C3-9360-69A1-3A90-840544A78614}|Math.csproj|c:\\users\\rpgma\\source\\repos\\math\\math.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{2EE914C3-9360-69A1-3A90-840544A78614}|Math.csproj|c:\\users\\rpgma\\source\\repos\\mathquiz\\math.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2EE914C3-9360-69A1-3A90-840544A78614}|Math.csproj|solutionrelative:math.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rpgma\\source\\repos\\Math\\frmMath.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frmMath.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rpgma\\source\\repos\\Math\\frmMath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frmMath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rpgma\\source\\repos\\Math\\frmmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frmmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,20 +30,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Math.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\rpgma\\source\\repos\\Math\\Math.cs",
+              "DocumentMoniker": "C:\\Users\\rpgma\\source\\repos\\MathQuiz\\Math.cs",
               "RelativeDocumentMoniker": "Math.cs",
-              "ToolTip": "C:\\Users\\rpgma\\source\\repos\\Math\\Math.cs [Design]*",
-              "RelativeToolTip": "Math.cs [Design]*",
+              "ToolTip": "C:\\Users\\rpgma\\source\\repos\\MathQuiz\\Math.cs [Design]",
+              "RelativeToolTip": "Math.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-08T21:02:25.287Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d455e273-1acb-491f-b5c9-760a99044cf9}"
             },
             {
               "$type": "Bookmark",
@@ -73,94 +60,50 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rpgma\\source\\repos\\Math\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\rpgma\\source\\repos\\MathQuiz\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\rpgma\\source\\repos\\Math\\Program.cs",
+              "ToolTip": "C:\\Users\\rpgma\\source\\repos\\MathQuiz\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-09T00:33:28.61Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Math.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\rpgma\\source\\repos\\Math\\Math.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rpgma\\source\\repos\\MathQuiz\\Math.Designer.cs",
               "RelativeDocumentMoniker": "Math.Designer.cs",
-              "ToolTip": "C:\\Users\\rpgma\\source\\repos\\Math\\Math.Designer.cs*",
-              "RelativeToolTip": "Math.Designer.cs*",
-              "ViewState": "AgIAABgAAAAAAAAAAAAnwBgAAAAIAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\rpgma\\source\\repos\\MathQuiz\\Math.Designer.cs",
+              "RelativeToolTip": "Math.Designer.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAA6wNQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-08T20:50:16.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Math.cs",
-              "DocumentMoniker": "C:\\Users\\rpgma\\source\\repos\\Math\\Math.cs",
+              "DocumentMoniker": "C:\\Users\\rpgma\\source\\repos\\MathQuiz\\Math.cs",
               "RelativeDocumentMoniker": "Math.cs",
-              "ToolTip": "C:\\Users\\rpgma\\source\\repos\\Math\\Math.cs",
+              "ToolTip": "C:\\Users\\rpgma\\source\\repos\\MathQuiz\\Math.cs",
               "RelativeToolTip": "Math.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA4wBgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowCgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-08T20:34:40.666Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Math.csproj",
-              "DocumentMoniker": "C:\\Users\\rpgma\\source\\repos\\Math\\Math.csproj",
+              "DocumentMoniker": "C:\\Users\\rpgma\\source\\repos\\MathQuiz\\Math.csproj",
               "RelativeDocumentMoniker": "Math.csproj",
-              "ToolTip": "C:\\Users\\rpgma\\source\\repos\\Math\\Math.csproj",
+              "ToolTip": "C:\\Users\\rpgma\\source\\repos\\MathQuiz\\Math.csproj",
               "RelativeToolTip": "Math.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-09-26T20:29:48.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmMath.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\rpgma\\source\\repos\\Math\\frmMath.Designer.cs",
-              "RelativeDocumentMoniker": "frmMath.Designer.cs",
-              "ToolTip": "C:\\Users\\rpgma\\source\\repos\\Math\\frmMath.Designer.cs",
-              "RelativeToolTip": "frmMath.Designer.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-26T20:28:23.798Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "frmMath.resx",
-              "DocumentMoniker": "C:\\Users\\rpgma\\source\\repos\\Math\\frmMath.resx",
-              "RelativeDocumentMoniker": "frmMath.resx",
-              "ToolTip": "C:\\Users\\rpgma\\source\\repos\\Math\\frmMath.resx",
-              "RelativeToolTip": "frmMath.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-09-26T16:07:13.488Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "frmMath.cs",
-              "DocumentMoniker": "C:\\Users\\rpgma\\source\\repos\\Math\\frmMath.cs",
-              "RelativeDocumentMoniker": "frmMath.cs",
-              "ToolTip": "C:\\Users\\rpgma\\source\\repos\\Math\\frmMath.cs",
-              "RelativeToolTip": "frmMath.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-26T16:05:38.374Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "frmMath.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\rpgma\\source\\repos\\Math\\frmMath.cs",
-              "RelativeDocumentMoniker": "frmMath.cs",
-              "ToolTip": "C:\\Users\\rpgma\\source\\repos\\Math\\frmMath.cs [Design]",
-              "RelativeToolTip": "frmMath.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-26T15:09:52.153Z"
             }
           ]
         }
